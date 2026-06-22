@@ -1,2 +1,0 @@
-I missed this stuff a little
-(we were parsing Genuis.com and connecting to API)
